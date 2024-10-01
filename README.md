@@ -29,7 +29,7 @@ Run the following command to install all necessary dependencies:
 
 \```bash
 flutter run
-\```
+```/
 
 This command will download and install the required packages for the app.
 
