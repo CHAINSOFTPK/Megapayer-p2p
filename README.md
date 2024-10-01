@@ -1,4 +1,4 @@
-# MegaPayer P2P App Documentation
+ # MegaPayer P2P App Documentation
 
 ## Installation Guide
 
@@ -72,9 +72,9 @@ Access all other features from the menu, including:
   - Ticker
   - Sign Out
 ### APK Creation
-  To generate an APK for your app, run the following command:
-    ```bash
-    flutter build apk --release
+ To generate an APK for your app, run the following command:
+   ```bash
+   flutter build apk --release
      
 The APK file will be created in the build/app/outputs/flutter-apk/ directory.
 
