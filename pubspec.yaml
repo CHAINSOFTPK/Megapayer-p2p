@@ -1,0 +1,107 @@
+name: local_coin
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  chewie: ^1.7.5
+  get: ^4.6.1
+  http: ^1.2.1
+  flutter_svg: ^2.0.10+1
+  lottie: ^3.1.2
+  file_picker: ^8.0.3
+  image_picker: ^1.1.1
+  shared_preferences: ^2.0.13
+  path_provider: ^2.0.9
+  country_picker: ^2.0.11
+  intl: ^0.19.0
+  pin_code_fields: ^8.0.1
+  url_launcher: ^6.1.7
+  flutter_widget_from_html: ^0.15.0
+  # font_awesome_flutter: ^8.11.0
+  auto_size_text: ^3.0.0
+  shimmer: ^3.0.0
+  # package_info_plus: ^1.4.2
+  dotted_border: ^2.0.0+2
+  permission_handler: ^11.3.1
+  dio: ^5.4.3+1
+  share_plus: ^10.0.2
+  animated_bottom_navigation_bar: ^1.3.3
+  firebase_messaging: ^15.1.1
+  firebase_analytics: ^11.3.1
+  firebase_core: ^3.4.1
+  firebase_core_platform_interface: ^5.0.0 
+  flutter_local_notifications: ^17.2.2
+  connectivity_plus: ^6.0.3
+  flutter_timer_countdown: ^1.0.3
+  awesome_dialog: ^3.0.2
+  flutter_app_lock: ^4.1.1+1
+  flutter_spinkit: ^5.2.1
+  google_sign_in: ^6.2.1
+  equatable: ^2.0.5
+  json_annotation: ^4.9.0
+  open_file: ^3.5.3
+  zoom_tap_animation: ^1.1.0
+
+
+  path: any
+  cached_network_image: any
+  webview_flutter: any
+  uuid: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/social/
+    - assets/icons/home_menu_icon/
+    - assets/icons/dashboard/
+    - assets/icons/notification_icon/
+    - assets/icons/menu_icon/
+    - assets/icons/
+    - assets/animation/
+    - assets/
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto/Roboto-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/roboto/Roboto-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/roboto/Roboto-Light.ttf
+          weight: 300
+    - family: Schyler
+      fonts:
+        - asset: assets/fonts/mulish/Mulish-Light.ttf
+          weight: 300
+        - asset: assets/fonts/mulish/Mulish-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/mulish/Mulish-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/mulish/Mulish-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/mulish/Mulish-Bold.ttf
+          weight: 700
+
+
+
