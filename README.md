@@ -25,9 +25,11 @@ To get started with the **MegaPayer P2P app**, please follow the steps below to 
    
 3.**Select Device**
    After dependencies are installed, select your target device for the project.
+   
 4.**Run Without Debugging**
    To run the project without debugging, use the following command:
-   flutter run --release
+   *flutter run --release*
+   
    The app will start running on the selected device.
    
    ***App Flow***
