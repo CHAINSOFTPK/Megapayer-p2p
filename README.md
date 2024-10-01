@@ -36,5 +36,3 @@ After dependencies are installed, select your target device to run the app.
 Use the following command to run the project in release mode:
  ```bash
   flutter run --release
-
-
