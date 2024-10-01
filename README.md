@@ -1,2 +1,2 @@
-# local_coin
+MegaPayer P2P App Documentation
  
