@@ -16,17 +16,15 @@ To install Flutter, visit the official repository: [Flutter GitHub](https://gith
 
 ### Setup Instructions
 
- 1. **Clone the Repository**  
+1. **Clone the Repository**  
    Clone the project to your local machine using the following commands:
    ```bash
    git clone <repository-url>
    cd <project-directory>
 
 2. **Install Dependencies**
-Run the following command to install all necessary dependencies:
-
-   bash
-Copy code
+  Run the following command to install all necessary dependencies:
+```bash
 flutter run
 This command will download and install the required packages for the app.
 
