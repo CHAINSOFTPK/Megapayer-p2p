@@ -14,24 +14,29 @@ To get started with the **MegaPayer P2P app**, please follow the steps below to 
 ### Setup Instructions
 
 1. **Clone the Repository**  
-Clone the project to your local machine using the command:
+  Clone the project to your local machine using the command:
    ```bash
    git clone <repository-url>
    cd <project-directory>
 2. **Install Dependencies**
 
-To install all necessary dependencies for the project, run the following command in the project directory:
+   To install all necessary dependencies for the project, run the following command in the project directory:
 
 ```bash
 flutter run
 
-   
-3.**Select Device**
-   After dependencies are installed, select your target device for the project.
-   
-4.**Run Without Debugging**
-   To run the project without debugging, use the following command:
-   *flutter run --release*
+### 3. **Select Device**
+
+After the dependencies are installed, select your target device to run the app.
+
+### 4. **Run Without Debugging**
+
+To run the project in release mode, use the following command:
+
+```bash
+flutter run --release
+
+
    
    The app will start running on the selected device.
    
