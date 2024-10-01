@@ -35,4 +35,6 @@ After dependencies are installed, select your target device to run the app.
 4. **Run Without Debugging**
 Use the following command to run the project in release mode:
  ```bash
-  flutter run --release
+   flutter run --release
+
+//The app will now start running on the selected device.
