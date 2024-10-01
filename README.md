@@ -37,8 +37,4 @@ Use the following command to run the project in release mode:
  ```bash
   flutter run --release
 
-  
-
-
-
 
