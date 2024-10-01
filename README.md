@@ -71,12 +71,14 @@ Access all other features from the menu, including:
   - Support
   - Ticker
   - Sign Out
- **APK Creation**
-   Use the following command to run the project in release mode:
-   ```bash
-   flutter run --release
+## APK Creation
 
-The app will now start running on the selected device.
+To generate an APK for your app, run the following command:
+
+```bash
+flutter build apk --release
+
+
 
 
 
