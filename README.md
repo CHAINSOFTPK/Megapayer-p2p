@@ -50,31 +50,32 @@ Here, you can view all available trading options and advertisements.
 Manage your wallet from this page. You can perform actions such as withdrawing and depositing funds.
 **Dashboard:**
 This section displays your profile and trade summaries. The dashboard includes:
-  - **Username**
-  - **Trade Summary**
-  - **Ads Summary**
-  - **Latest Advertisement**
-  - **Referral Link**
+  - Username
+  - Trade Summary
+  - Ads Summary
+  - Latest Advertisement
+  - Referral Link
 **Trade Page:**
 This page consists of two tabs:
-  - **Running Trades**
-  - **Completed Trades**
+  - Running Trades
+  - Completed Trades
 **Menu Page:**
 Access all other features from the menu, including:
-  - **Profile**
-  - **KYC Verification**
-  - **Change Password**
-  - **Notifications**
-  - **Deposit History**
-  - **Transactions**
-  - **Two-Factor Verification**
-  - **Support**
-  - **Ticker**
-  - **Sign Out**
+  - Profile
+  - KYC Verification
+  - Change Password
+  - Notifications
+  - Deposit History
+  - Transactions
+  - Two-Factor Verification
+  - Support
+  - Ticker
+  - Sign Out
 ### APK Creation
 To generate an APK for your app, run the following command:
-   ```bash
-  flutter build apk --release
+     ```bash
+     flutter build apk --release
+     
 The APK file will be created in the build/app/outputs/flutter-apk/ directory.
 
 
