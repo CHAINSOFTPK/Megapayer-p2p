@@ -20,14 +20,16 @@ To get started with the **MegaPayer P2P app**, please follow the steps below to 
    cd <project-directory>
 2. **install Dependencies**
    In the project directory, run the following command to install all necessary dependencies:
-   **flutter run**
+   flutter run
    This will automatically download and install the required packages and dependencies for the app.
+   
 3.**Select Device**
    After dependencies are installed, select your target device for the project.
 4.**Run Without Debugging**
    To run the project without debugging, use the following command:
-   **flutter run --release**
+   flutter run --release
    The app will start running on the selected device.
+   
    ***App Flow***
    Once the app is running, the following screens and features will be available:
 
@@ -55,3 +57,13 @@ To get started with the **MegaPayer P2P app**, please follow the steps below to 
 *Completed Trades*
  **Menu Page:**
   Access all other features from the menu.
+
+ **APK Creation**
+ To create an APK for your app, use the following command:
+ 
+ flutter build apk --release
+ This will generate an APK file in the build/app/outputs/flutter-apk/ directory.
+
+
+
+
