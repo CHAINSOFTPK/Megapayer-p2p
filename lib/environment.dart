@@ -1,7 +1,7 @@
 class Environment {
 /* ATTENTION Please update your desired data. */
 
-  static const String appName = 'MegaPayer';
+  static const String appName = 'MegaP2P';
   static const String version = '1.0.0';
 
   static String defaultLangCode = "en";
