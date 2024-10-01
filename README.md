@@ -74,7 +74,7 @@ Access all other features from the menu, including:
 ## APK Creation
   To generate an APK for your app, run the following command:
     ```bash
-   flutter build apk --release
+    flutter build apk --release
 
 The APK file will be created in the build/app/outputs/flutter-apk/ directory.
 
