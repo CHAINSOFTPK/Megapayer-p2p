@@ -37,7 +37,9 @@ Use the following command to run the project in release mode:
  ```bash
 flutter run --release
 
+
 The app will now start running on the selected device.
+
 ### Now, after each command block, the new instructions appear on separate lines, as requested.
 
   
