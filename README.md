@@ -2,78 +2,30 @@
 
 ## Installation Guide
 
-To get started with the **MegaPayer P2P app**, please follow the steps below to ensure a smooth installation and setup process.
+To get started with the **MegaPayer P2P app**, follow these steps for smooth installation and setup.
 
 ### Prerequisites
 
-- Make sure you have Flutter installed. This project requires **Flutter 3.24.2** to run. You can install Flutter from the official [Flutter GitHub repository](https://github.com/flutter/flutter.git).
-  - **Flutter Version:** 3.24.2 (Stable)
-  - **Dart Version:** 3.5.2
-  - **DevTools Version:** 2.37.2
+Ensure you have Flutter installed. The project requires the following versions:
+
+- **Flutter Version:** 3.24.2 (Stable)
+- **Dart Version:** 3.5.2
+- **DevTools Version:** 2.37.2
+
+To install Flutter, visit the official repository: [Flutter GitHub](https://github.com/flutter/flutter.git).
 
 ### Setup Instructions
 
 1. **Clone the Repository**  
-  Clone the project to your local machine using the command:
+   Clone the project to your local machine using the following commands:
    ```bash
    git clone <repository-url>
    cd <project-directory>
-2. **Install Dependencies**
+ 2. **Install Dependencies**
 
-   To install all necessary dependencies for the project, run the following command in the project directory:
+To install all necessary dependencies for the project, run the following command in the project directory:
 
 ```bash
 flutter run
-
-### 3. **Select Device**
-
-After the dependencies are installed, select your target device to run the app.
-
-### 4. **Run Without Debugging**
-
-To run the project in release mode, use the following command:
-
-```bash
-flutter run --release
-
-
-   
-   The app will start running on the selected device.
-   
-   ***App Flow***
-   Once the app is running, the following screens and features will be available:
-
-   **Login Screen:**
-   You will be directed to the login screen. After successfully logging in, you will be redirected to the market page.
-
-   **Market Page:**
-   Here, you can view all available trading options and advertisements.
-
-   **Wallet Page:**
-   Manage your wallet, where you can perform actions such as withdrawing and depositing funds.
-
-   **Dashboard:**
-   Access your profile and trade summaries. The dashboard includes:
-
- *Username*
- *Trade Summary*
- *Ads Summary*
- *Latest Advertisement*
- *Referral Link*
-  **Trade Page:**
-   Here, you'll find two tabs:
-
-*Running Trades*
-*Completed Trades*
- **Menu Page:**
-  Access all other features from the menu.
-
- **APK Creation**
- To create an APK for your app, use the following command:
- 
- flutter build apk --release
- This will generate an APK file in the build/app/outputs/flutter-apk/ directory.
-
-
-
+This command will download and install the required packages for the app.
 
