@@ -28,8 +28,9 @@ To install Flutter, visit the official repository: [Flutter GitHub](https://gith
    ```bash
    flutter run
 
-This command will download and install the required packages for the app.  
-Now, after each command block, the new instructions appear on separate lines, as requested.
+This command will download and install the required packages for the app.
+
+# Now, after each command block, the new instructions appear on separate lines, as requested.
 
   
 
