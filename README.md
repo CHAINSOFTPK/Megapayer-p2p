@@ -72,7 +72,7 @@ Access all other features from the menu, including:
   - Ticker
   - Sign Out
 ### APK Creation
-    To generate an APK for your app, run the following command:
+ To generate an APK for your app, run the following command:
     ```bash
     flutter build apk --release
      
