@@ -44,22 +44,22 @@ The app will now start running on the selected device.
 Once the app is running, the following screens and features will be available:
 **Login Screen:**
 After launching the app, you'll be directed to the login screen. Upon successfully logging in, you will be redirected to the Market Page.
-**Market Page:**
+## Market Page:
 Here, you can view all available trading options and advertisements.
-**Wallet Page:**
+## Wallet Page:
 Manage your wallet from this page. You can perform actions such as withdrawing and depositing funds.
-**Dashboard:**
+## Dashboard:
 This section displays your profile and trade summaries. The dashboard includes:
   - Username
   - Trade Summary
   - Ads Summary
   - Latest Advertisement
   - Referral Link
-**Trade Page:**
+## Trade Page:
 This page consists of two tabs:
   - Running Trades
   - Completed Trades
-**Menu Page:**
+## Menu Page:
 Access all other features from the menu, including:
   - Profile
   - KYC Verification
